@@ -1,0 +1,7 @@
+{
+  "name": "Apto Celiaco - Verificador de Productos",
+  "description": "Una aplicación para verificar si un producto es apto para celíacos subiendo una foto, utilizando la API de Groq para un análisis rápido de imágenes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
